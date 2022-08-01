@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Minh Đại</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
-<img align="right alt="MinhDai" width="400" src="http://i.dailymail.co.uk/i/gif/2014/09/nebula1.gif" >
+<img align="right" alt="MinhDai" width="400" src="http://i.dailymail.co.uk/i/gif/2014/09/nebula1.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dominhdai060402&label=Profile%20views&color=0e75b6&style=flat" alt="dominhdai060402" /> </p>
 
