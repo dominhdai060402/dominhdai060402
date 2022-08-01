@@ -32,4 +32,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dominhdai060402&" alt="dominhdai060402" /></p>
 
-<p><img align="center" src="https://media.vov.vn/sites/default/files/styles/large/public/2021-04/a1_0.png" alt="dominhdai060402" /></p>
+<img align="center" src="https://media.vov.vn/sites/default/files/styles/large/public/2021-04/a1_0.png" alt="dominhdai060402" >
