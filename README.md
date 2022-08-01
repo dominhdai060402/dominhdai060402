@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Minh Đại</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
-<img align="right" alt="MinhDai" width="400" src="http://i.dailymail.co.uk/i/gif/2014/09/nebula1.gif" >
 
-<p align="left"> <img src="http://i.dailymail.co.uk/i/gif/2014/09/nebula1.gif" alt="dominhdai060402" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dominhdai060402&label=Profile%20views&color=0e75b6&style=flat" alt="dominhdai060402" /> </p>
 
 <p align="left"> <a href="https://twitter.com/minhdai" target="blank"><img src="https://img.shields.io/twitter/follow/minhdai?logo=twitter&style=for-the-badge" alt="minhdai" /></a> </p>
 
@@ -32,7 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dominhdai060402&show_icons=true&locale=en" alt="dominhdai060402" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dominhdai060402&" alt="dominhdai060402" /></p>
-
-
-
-![snake gif](https://github.com/dominhdai060402/dominhdai060402/blob/output/github-contribution-grid-snake.gif)
